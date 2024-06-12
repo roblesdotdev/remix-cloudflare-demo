@@ -14,7 +14,7 @@ export default function Index() {
   return (
     <div className="font-sans p-4">
       <h1 className="text-3xl">Welcome to Remix on Cloudflare</h1>
-      <p>This text is only on preview</p>
+      <p>This text is only on preview. Development branch</p>
     </div>
   );
 }
